@@ -1,0 +1,100 @@
+awesome i- FALSE POSITIVE
+nice does evrythng- FALSE POSITIVE
+excelente para edici- FALSE POSITIVE
+idea ratings- FALSE POSITIVE
+htc user- FALSE POSITIVE
+sumtyms stops- FALSE POSITIVE
+idk y- FALSE POSITIVE
+high quality- FALSE POSITIVE
+low processing- FALSE POSITIVE
+photo editior i- TRUE POSITIVE
+excellent allover- FALSE POSITIVE
+offers a wide variety- FALSE POSITIVE
+hate catch- FALSE POSITIVE
+well done- FALSE POSITIVE
+awesome picsart editing- FALSE POSITIVE
+crop pictures- TRUE POSITIVE
+am a computer- FALSE POSITIVE
+inclined persone- FALSE POSITIVE
+assured me picsart- FALSE POSITIVE
+pictures superb ty- FALSE POSITIVE
+free picture- FALSE POSITIVE
+work guys- FALSE POSITIVE
+cool awsome- FALSE POSITIVE
+poor photography- FALSE POSITIVE
+htc amaze- FALSE POSITIVE
+u advance- FALSE POSITIVE
+picsart an awesome- FALSE POSITIVE
+update hey guys- FALSE POSITIVE
+fine look- FALSE POSITIVE
+android old version- FALSE POSITIVE
+high perfomance- FALSE POSITIVE
+impresive and high- FALSE POSITIVE
+meh okay- FALSE POSITIVE
+explore your creativity- TRUE POSITIVE
+ganesh lg- FALSE POSITIVE
+add smoke- TRUE POSITIVE
+smoke cuase- FALSE POSITIVE
+add hi- FALSE POSITIVE
+apply effects- TRUE POSITIVE
+exellent nice t- FALSE POSITIVE
+low class- FALSE POSITIVE
+nice job add- FALSE POSITIVE
+draw menu- TRUE POSITIVE
+coloring bottle in draw- FALSE POSITIVE
+add clear tracing- TRUE POSITIVE
+clear tracing image- TRUE POSITIVE
+awesm famous pictures- FALSE POSITIVE
+does job- FALSE POSITIVE
+least add output- FALSE POSITIVE
+major disadvs- FALSE POSITIVE
+selection tool- TRUE POSITIVE
+image parts- FALSE POSITIVE
+picsart my favorite- FALSE POSITIVE
+picsart awesome photo- FALSE POSITIVE
+long time- FALSE POSITIVE
+done photoshop i- FALSE POSITIVE
+bad password- FALSE POSITIVE
+excellent performs- FALSE POSITIVE
+ok to filters- FALSE POSITIVE
+picture cute- FALSE POSITIVE
+plz add- FALSE POSITIVE
+instagram i- FALSE POSITIVE
+thing a beast- FALSE POSITIVE
+believe weak ps- FALSE POSITIVE
+development team see- FALSE POSITIVE
+slow yeah- FALSE POSITIVE
+l bit- FALSE POSITIVE
+bullshit works- FALSE POSITIVE
+u doin- FALSE POSITIVE
+nd free- FALSE POSITIVE
+bit slow- FALSE POSITIVE
+idk uninstalls- FALSE POSITIVE
+full resolution pictures- TRUE POSITIVE
+lapse easyliy capture- FALSE POSITIVE
+capture with awesome- FALSE POSITIVE
+creative awesome- FALSE POSITIVE
+cool pictures- FALSE POSITIVE
+samsung galaxy- FALSE POSITIVE
+awesome pictures art- FALSE POSITIVE
+misbehaving big time- FALSE POSITIVE
+download stuck- FALSE POSITIVE
+thanks again- FALSE POSITIVE
+therese lukasz- FALSE POSITIVE
+to work- FALSE POSITIVE
+help get to- FALSE POSITIVE
+work for me- FALSE POSITIVE
+ty pam therese- FALSE POSITIVE
+fck cause- FALSE POSITIVE
+excellent simple- FALSE POSITIVE
+sd storage- TRUE POSITIVE
+sooooooooooooooooooooooooooooo nice supper- FALSE POSITIVE
+editing wow- FALSE POSITIVE
+supper photo- FALSE POSITIVE
+updated heaven- FALSE POSITIVE
+complete and professional- FALSE POSITIVE
+drawing software- FALSE POSITIVE
+professional adobe- FALSE POSITIVE
+info link send- TRUE POSITIVE
+long time- FALSE POSITIVE
+favourite hands- FALSE POSITIVE

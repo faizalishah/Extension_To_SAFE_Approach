@@ -1,0 +1,366 @@
+consensus averages- FALSE POSITIVE
+re am gon na- FALSE POSITIVE
+everyone experience- FALSE POSITIVE
+give knowledge- FALSE POSITIVE
+information web- FALSE POSITIVE
+information location- FALSE POSITIVE
+information numbers- FALSE POSITIVE
+majority opinion- FALSE POSITIVE
+selecting places- TRUE POSITIVE
+knowing a majority- FALSE POSITIVE
+reviews personal preference- TRUE POSITIVE
+frequent traveler- FALSE POSITIVE
+critical information- FALSE POSITIVE
+definite place- FALSE POSITIVE
+standards to views- FALSE POSITIVE
+update version- FALSE POSITIVE
+date reviews- FALSE POSITIVE
+overall update- FALSE POSITIVE
+new york- FALSE POSITIVE
+trip to new- FALSE POSITIVE
+discovered fabulous restaurants- FALSE POSITIVE
+unpleasant choices- FALSE POSITIVE
+over-the-top ones- FALSE POSITIVE
+outlier reviews- FALSE POSITIVE
+bad ones- FALSE POSITIVE
+informative reviews ones- FALSE POSITIVE
+give specific details- FALSE POSITIVE
+specific areas- FALSE POSITIVE
+getting personnal feelings- FALSE POSITIVE
+work a hotel- FALSE POSITIVE
+hotel myself- FALSE POSITIVE
+review website- TRUE POSITIVE
+looking for longest time- FALSE POSITIVE
+save button- FALSE POSITIVE
+horizontal position- TRUE POSITIVE
+tripadvisor ux usability- FALSE POSITIVE
+like trip advisor- FALSE POSITIVE
+like fact- FALSE POSITIVE
+anytime travel plans- FALSE POSITIVE
+travel decisions- FALSE POSITIVE
+experienced a problem- FALSE POSITIVE
+flight tickets- TRUE POSITIVE
+global view- FALSE POSITIVE
+found tripadvisor- FALSE POSITIVE
+job guys- FALSE POSITIVE
+go backwards- FALSE POSITIVE
+update but trip-advisor- FALSE POSITIVE
+save your stops- TRUE POSITIVE
+loce ease- FALSE POSITIVE
+fat-fingered users- FALSE POSITIVE
+add landscape support- TRUE POSITIVE
+island vacation- FALSE POSITIVE
+well done- FALSE POSITIVE
+consider booking- FALSE POSITIVE
+las fotos de los- FALSE POSITIVE
+los turistas- FALSE POSITIVE
+wish maps- FALSE POSITIVE
+update negates- FALSE POSITIVE
+desired categories- FALSE POSITIVE
+previous version- FALSE POSITIVE
+cityor location- FALSE POSITIVE
+posts that suggestions- TRUE POSITIVE
+wifi laptop- FALSE POSITIVE
+open laptop- FALSE POSITIVE
+full website- FALSE POSITIVE
+trip advisor-- FALSE POSITIVE
+case with trip- FALSE POSITIVE
+ll information on food- FALSE POSITIVE
+food reviews- TRUE POSITIVE
+advisor to plan- FALSE POSITIVE
+plan my travels- TRUE POSITIVE
+retype search criteria- FALSE POSITIVE
+quite a bit- FALSE POSITIVE
+attention to reviews- FALSE POSITIVE
+paying attention- FALSE POSITIVE
+recent months- FALSE POSITIVE
+review writers- FALSE POSITIVE
+veteran travelers- FALSE POSITIVE
+search a bit- FALSE POSITIVE
+replace yelp- FALSE POSITIVE
+foursquare with trip- FALSE POSITIVE
+deal breaker- FALSE POSITIVE
+manage my trip- TRUE POSITIVE
+performance smooth- FALSE POSITIVE
+glitchy performance- FALSE POSITIVE
+food restaurants- TRUE POSITIVE
+plus fact- FALSE POSITIVE
+burger king- FALSE POSITIVE
+star rating- FALSE POSITIVE
+personal questions- FALSE POSITIVE
+must bugs- FALSE POSITIVE
+poor hotels- FALSE POSITIVE
+very tool- FALSE POSITIVE
+locating mini weekend- FALSE POSITIVE
+web version- FALSE POSITIVE
+see websites of hotels- TRUE POSITIVE
+get information on ta- FALSE POSITIVE
+flight filters- TRUE POSITIVE
+start search- FALSE POSITIVE
+finding new resturants- TRUE POSITIVE
+new resturants picks- TRUE POSITIVE
+regular website- FALSE POSITIVE
+find your travel- TRUE POSITIVE
+improve functionality- FALSE POSITIVE
+scroll thru pictures- FALSE POSITIVE
+button work- FALSE POSITIVE
+checking reviews- TRUE POSITIVE
+hotels pictures- TRUE POSITIVE
+screen every time- FALSE POSITIVE
+see pictures- TRUE POSITIVE
+should an option- FALSE POSITIVE
+quieter areas- FALSE POSITIVE
+avoid dogs in town- FALSE POSITIVE
+discover real gems- FALSE POSITIVE
+serious foodie help- FALSE POSITIVE
+social media- FALSE POSITIVE
+got ta power- FALSE POSITIVE
+ignore rest- FALSE POSITIVE
+hotels restaurants- FALSE POSITIVE
+trip advisor site- FALSE POSITIVE
+th gen device- FALSE POSITIVE
+coffee break- FALSE POSITIVE
+taking a coffee- FALSE POSITIVE
+thinking my system- FALSE POSITIVE
+like candor- FALSE POSITIVE
+fit review- FALSE POSITIVE
+get a picture- TRUE POSITIVE
+seek experiences- FALSE POSITIVE
+reliable resource- FALSE POSITIVE
+planning your stay- TRUE POSITIVE
+specific criteria- FALSE POSITIVE
+done reviews- FALSE POSITIVE
+done coverage- FALSE POSITIVE
+quality reviews- FALSE POSITIVE
+quality coverage- FALSE POSITIVE
+travel with pets- TRUE POSITIVE
+peak seasonal flows- FALSE POSITIVE
+reliable hotels- FALSE POSITIVE
+terrible time finding clean- FALSE POSITIVE
+pet travel- FALSE POSITIVE
+enhance site experience- FALSE POSITIVE
+us countries- FALSE POSITIVE
+us do- FALSE POSITIVE
+european countries- FALSE POSITIVE
+european do- FALSE POSITIVE
+memorable stories- FALSE POSITIVE
+taken risk of sight- FALSE POSITIVE
+huge improvement- FALSE POSITIVE
+leave home- FALSE POSITIVE
+international advice- FALSE POSITIVE
+easier platform- FALSE POSITIVE
+sync my travel- TRUE POSITIVE
+appreciate access- FALSE POSITIVE
+liked about accurate flight- FALSE POSITIVE
+found deal- FALSE POSITIVE
+compared trip advisor- FALSE POSITIVE
+saving properties- TRUE POSITIVE
+keeping notes- TRUE POSITIVE
+quite a bit- FALSE POSITIVE
+decent tripadvisor- FALSE POSITIVE
+tourist locations content- FALSE POSITIVE
+trustworthy and reliable- FALSE POSITIVE
+promised info- FALSE POSITIVE
+promised travel- FALSE POSITIVE
+delivers info- FALSE POSITIVE
+delivers travel- FALSE POSITIVE
+am a fan- FALSE POSITIVE
+beyond town- FALSE POSITIVE
+tilripadvisor reads- FALSE POSITIVE
+review photos- TRUE POSITIVE
+post photos- TRUE POSITIVE
+bf take photos- FALSE POSITIVE
+truth a problem- FALSE POSITIVE
+speaking truth- FALSE POSITIVE
+last vacation- FALSE POSITIVE
+like trip advisor- FALSE POSITIVE
+feels buggy- FALSE POSITIVE
+reliable reviews- FALSE POSITIVE
+giving a review- TRUE POSITIVE
+focus areas- FALSE POSITIVE
+huge diversity- FALSE POSITIVE
+info a couple- FALSE POSITIVE
+candid comments- FALSE POSITIVE
+improve time- FALSE POSITIVE
+thanks tripadvisor- FALSE POSITIVE
+san miguel- FALSE POSITIVE
+mislabeled street- FALSE POSITIVE
+downtown area- FALSE POSITIVE
+seeing worse- FALSE POSITIVE
+allende shown downtown- FALSE POSITIVE
+historic centro- FALSE POSITIVE
+rental house- FALSE POSITIVE
+next problem- FALSE POSITIVE
+showed me attractions- TRUE POSITIVE
+previous version- FALSE POSITIVE
+bottom line- FALSE POSITIVE
+cape cod- FALSE POSITIVE
+vacations to paris- FALSE POSITIVE
+save things- FALSE POSITIVE
+leave home- FALSE POSITIVE
+entire vacation- FALSE POSITIVE
+planning my entire- FALSE POSITIVE
+key west trip- FALSE POSITIVE
+vacation to key- FALSE POSITIVE
+started trip advisor- FALSE POSITIVE
+finding gems- FALSE POSITIVE
+seeing trip advisor- FALSE POSITIVE
+forums page- FALSE POSITIVE
+sort hotels- TRUE POSITIVE
+content design- FALSE POSITIVE
+higher expectations- FALSE POSITIVE
+blow smoke- FALSE POSITIVE
+like ui- FALSE POSITIVE
+performance side- FALSE POSITIVE
+find recommendations over world- FALSE POSITIVE
+first place- FALSE POSITIVE
+helpful and informative- FALSE POSITIVE
+ability to search- FALSE POSITIVE
+search cities- TRUE POSITIVE
+purchase a guidebook- TRUE POSITIVE
+trip important thing- FALSE POSITIVE
+trip adviser- FALSE POSITIVE
+like bbb agency- FALSE POSITIVE
+paying money for get- FALSE POSITIVE
+see your inbox- TRUE POSITIVE
+or rate- FALSE POSITIVE
+find a breakfast- TRUE POSITIVE
+breakfast place- FALSE POSITIVE
+does show- FALSE POSITIVE
+mobile access- FALSE POSITIVE
+access to forums- TRUE POSITIVE
+am glad people- FALSE POSITIVE
+honest reviews- FALSE POSITIVE
+submitting my honest- FALSE POSITIVE
+does work- FALSE POSITIVE
+ipod touch- FALSE POSITIVE
+tripadvisor account- TRUE POSITIVE
+novice traveler- FALSE POSITIVE
+new position- FALSE POSITIVE
+position my company- FALSE POSITIVE
+hot meal- FALSE POSITIVE
+finger tips- FALSE POSITIVE
+thank you ta- FALSE POSITIVE
+get inside baseball- FALSE POSITIVE
+pitch brochures- FALSE POSITIVE
+real life- FALSE POSITIVE
+thru creates travel- FALSE POSITIVE
+exploring thru creates- FALSE POSITIVE
+travel dreams- FALSE POSITIVE
+got stuck- FALSE POSITIVE
+amazing healfull- FALSE POSITIVE
+perfect objective measurement- FALSE POSITIVE
+nice ui- FALSE POSITIVE
+advisor an awesome tool- FALSE POSITIVE
+see a hotel- TRUE POSITIVE
+alabama to arkansas- FALSE POSITIVE
+south alabama- FALSE POSITIVE
+yelp nothing- FALSE POSITIVE
+strong international contribution- FALSE POSITIVE
+won a place- FALSE POSITIVE
+home page- FALSE POSITIVE
+puerto rico- FALSE POSITIVE
+wish reviewing- FALSE POSITIVE
+trust tripadvisor- FALSE POSITIVE
+old version missing- FALSE POSITIVE
+improved navigation- FALSE POSITIVE
+filled bill- FALSE POSITIVE
+person who lives- FALSE POSITIVE
+business person- FALSE POSITIVE
+tripadvisor website- FALSE POSITIVE
+trips with trip- FALSE POSITIVE
+tripadvisor a shorter- FALSE POSITIVE
+bookings with tripadvisor- FALSE POSITIVE
+show b- FALSE POSITIVE
+appropriate info- FALSE POSITIVE
+viewed offline- TRUE POSITIVE
+saved items- TRUE POSITIVE
+last trip- FALSE POSITIVE
+trip take- FALSE POSITIVE
+downloaded city- TRUE POSITIVE
+tripadvisor guide- FALSE POSITIVE
+found mediterranean restaurant- FALSE POSITIVE
+tripadvisor reviews- FALSE POSITIVE
+search awesome- FALSE POSITIVE
+find an tool- FALSE POSITIVE
+determine fits- FALSE POSITIVE
+careful and glean- FALSE POSITIVE
+perfect wisdom- FALSE POSITIVE
+execute your trip- TRUE POSITIVE
+help plan- FALSE POSITIVE
+data points- FALSE POSITIVE
+remember a tool- FALSE POSITIVE
+people jewels treasures- FALSE POSITIVE
+am navigator- FALSE POSITIVE
+crisscross country- FALSE POSITIVE
+country every summer- FALSE POSITIVE
+pay attention- FALSE POSITIVE
+advisor a opinion- FALSE POSITIVE
+hidden treasures- FALSE POSITIVE
+current location- FALSE POSITIVE
+south africa- FALSE POSITIVE
+navigating options- FALSE POSITIVE
+trip advisor community- FALSE POSITIVE
+us summer road- FALSE POSITIVE
+road trip- FALSE POSITIVE
+community come- FALSE POSITIVE
+stellar experience- FALSE POSITIVE
+give a minute- FALSE POSITIVE
+connection speeds- FALSE POSITIVE
+put a back- FALSE POSITIVE
+poor design- FALSE POSITIVE
+small family motels- FALSE POSITIVE
+trip to italy- FALSE POSITIVE
+cooking classes in cortona- FALSE POSITIVE
+trip advisor for information- FALSE POSITIVE
+weary traveler- FALSE POSITIVE
+brew pub- FALSE POSITIVE
+find info- TRUE POSITIVE
+time to reviews- FALSE POSITIVE
+take time- FALSE POSITIVE
+offered reviews for years- FALSE POSITIVE
+review a couple- FALSE POSITIVE
+thanks tripadvisor- FALSE POSITIVE
+bus companies- FALSE POSITIVE
+add things- FALSE POSITIVE
+valuable information- FALSE POSITIVE
+exotic destination- FALSE POSITIVE
+trips a year- FALSE POSITIVE
+major trips- FALSE POSITIVE
+seen hotels- FALSE POSITIVE
+meet my expectations- FALSE POSITIVE
+written in last days- FALSE POSITIVE
+guides travel tools- FALSE POSITIVE
+hotels hands- FALSE POSITIVE
+told a friend- FALSE POSITIVE
+went to seoul- FALSE POSITIVE
+show people- FALSE POSITIVE
+appreciate reviews from people- FALSE POSITIVE
+contains a wealth- FALSE POSITIVE
+house rentals- FALSE POSITIVE
+house rentals- FALSE POSITIVE
+navigating thru- FALSE POSITIVE
+couple years- FALSE POSITIVE
+check forums- TRUE POSITIVE
+reviews a breeze- FALSE POSITIVE
+enter numerous towns- FALSE POSITIVE
+do numerous searches- FALSE POSITIVE
+version a step- FALSE POSITIVE
+wrong direction- FALSE POSITIVE
+ipod touch- FALSE POSITIVE
+discovered nifty point- FALSE POSITIVE
+challenged folks- FALSE POSITIVE
+go either direction- FALSE POSITIVE
+manage an overseas trip- FALSE POSITIVE
+version a disappointment- FALSE POSITIVE
+city searches- TRUE POSITIVE
+honeymoon search- TRUE POSITIVE
+previous version- FALSE POSITIVE
+new area- FALSE POSITIVE
+pan map- FALSE POSITIVE
+gone ability- FALSE POSITIVE
+excellent filters- FALSE POSITIVE
+thinking tripadvisor- FALSE POSITIVE
+help plan- FALSE POSITIVE
+insightful and helpful- FALSE POSITIVE
+bad travel experience- FALSE POSITIVE

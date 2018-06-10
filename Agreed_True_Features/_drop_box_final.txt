@@ -1,0 +1,420 @@
+flawless operation- FALSE POSITIVE
+zero problems- FALSE POSITIVE
+customer support- TRUE POSITIVE
+import multiple photos- TRUE POSITIVE
+recent upgrades- FALSE POSITIVE
+specific complaints- FALSE POSITIVE
+incomprehensible and un-modifyable- FALSE POSITIVE
+icon induce- FALSE POSITIVE
+battling brightness- FALSE POSITIVE
+huge expanses- FALSE POSITIVE
+stencil-thin pale icons- FALSE POSITIVE
+blue and stencil-thin- FALSE POSITIVE
+look works fine- FALSE POSITIVE
+purchased version- FALSE POSITIVE
+work abilities- FALSE POSITIVE
+lugging laptop- FALSE POSITIVE
+thumb drive- FALSE POSITIVE
+full time students- FALSE POSITIVE
+think latest style- FALSE POSITIVE
+right direction- FALSE POSITIVE
+see sorting- TRUE POSITIVE
+previous version- FALSE POSITIVE
+laptop tool- FALSE POSITIVE
+get files- TRUE POSITIVE
+allow users- FALSE POSITIVE
+vie my pdf- FALSE POSITIVE
+initial setup- TRUE POSITIVE
+click cancel- FALSE POSITIVE
+created file- TRUE POSITIVE
+like a notification- TRUE POSITIVE
+sticks photos- TRUE POSITIVE
+bf a photographer- FALSE POSITIVE
+responsible read- FALSE POSITIVE
+move my pictures- TRUE POSITIVE
+edit pdf- TRUE POSITIVE
+view types- TRUE POSITIVE
+major pain- FALSE POSITIVE
+see icon- TRUE POSITIVE
+zero stars- FALSE POSITIVE
+report problem- TRUE POSITIVE
+click ok- FALSE POSITIVE
+contact with support- TRUE POSITIVE
+complete default mode- TRUE POSITIVE
+skip tracks- TRUE POSITIVE
+hit button- FALSE POSITIVE
+next update- TRUE POSITIVE
+connect itune for alert- TRUE POSITIVE
+rd party software- FALSE POSITIVE
+nothing happens- FALSE POSITIVE
+big time- FALSE POSITIVE
+web pages- FALSE POSITIVE
+see source code- TRUE POSITIVE
+default mail- TRUE POSITIVE
+sharing links through default- TRUE POSITIVE
+email attachments- TRUE POSITIVE
+send files as email- TRUE POSITIVE
+links to people- TRUE POSITIVE
+email links- TRUE POSITIVE
+sending of individual links- TRUE POSITIVE
+poor job- FALSE POSITIVE
+next time- FALSE POSITIVE
+me download again- FALSE POSITIVE
+last month- FALSE POSITIVE
+desktop folder- TRUE POSITIVE
+recent files- TRUE POSITIVE
+current files- TRUE POSITIVE
+month old yet- FALSE POSITIVE
+saved in right format- TRUE POSITIVE
+enhances capability- FALSE POSITIVE
+dispersing information- FALSE POSITIVE
+access your materials- TRUE POSITIVE
+media files- TRUE POSITIVE
+wish streaming support- FALSE POSITIVE
+worth every penny- FALSE POSITIVE
+am a subscriber- FALSE POSITIVE
+got nothing- FALSE POSITIVE
+add ability- FALSE POSITIVE
+poor background- FALSE POSITIVE
+change photos- TRUE POSITIVE
+like ability- FALSE POSITIVE
+basic function- FALSE POSITIVE
+put a video- TRUE POSITIVE
+thank you people- FALSE POSITIVE
+bigger files- FALSE POSITIVE
+getting message- TRUE POSITIVE
+trouble getting- FALSE POSITIVE
+bad update- FALSE POSITIVE
+previous version- FALSE POSITIVE
+takes effort- FALSE POSITIVE
+basic function- FALSE POSITIVE
+error messages- FALSE POSITIVE
+display long file- TRUE POSITIVE
+ebooks any times- FALSE POSITIVE
+long time- FALSE POSITIVE
+bad reviews- FALSE POSITIVE
+permanent solution- FALSE POSITIVE
+power users- TRUE POSITIVE
+offer a storage system- FALSE POSITIVE
+add ability- FALSE POSITIVE
+giant useless folder- FALSE POSITIVE
+evernote system- FALSE POSITIVE
+video storage- TRUE POSITIVE
+take a cue- FALSE POSITIVE
+unlimited media storage- TRUE POSITIVE
+charge a fee- TRUE POSITIVE
+document storage- TRUE POSITIVE
+think lacks- FALSE POSITIVE
+big thing- FALSE POSITIVE
+longer accepts files- FALSE POSITIVE
+presentation weekend- FALSE POSITIVE
+open my pdfs- TRUE POSITIVE
+loop forever- TRUE POSITIVE
+email documents- TRUE POSITIVE
+text someone- FALSE POSITIVE
+someone a single photo- FALSE POSITIVE
+folder with pictures- TRUE POSITIVE
+link to people- TRUE POSITIVE
+send a link- TRUE POSITIVE
+job guys- FALSE POSITIVE
+miss old logo- FALSE POSITIVE
+liked old color- FALSE POSITIVE
+hurts my eyes- FALSE POSITIVE
+white hurts- FALSE POSITIVE
+spent hours- FALSE POSITIVE
+re- access site- FALSE POSITIVE
+site with success- FALSE POSITIVE
+air drop- FALSE POSITIVE
+new thing- FALSE POSITIVE
+got ta- FALSE POSITIVE
+reduce bandwidth- TRUE POSITIVE
+increases bandwidth- TRUE POSITIVE
+get mcpe- FALSE POSITIVE
+get your money- TRUE POSITIVE
+fake website- FALSE POSITIVE
+amazing must product- FALSE POSITIVE
+working fine with problems- FALSE POSITIVE
+files to ibooks- FALSE POSITIVE
+did work- FALSE POSITIVE
+camara roll- FALSE POSITIVE
+work to sharing- FALSE POSITIVE
+get photos- TRUE POSITIVE
+calendar emails contacts- TRUE POSITIVE
+special folders- TRUE POSITIVE
+move post record- TRUE POSITIVE
+post record things- FALSE POSITIVE
+desktop version- FALSE POSITIVE
+then i- FALSE POSITIVE
+flipping sloth- FALSE POSITIVE
+longer works- FALSE POSITIVE
+out-of-date copies- FALSE POSITIVE
+reflect existence- FALSE POSITIVE
+modification times- FALSE POSITIVE
+new versions- FALSE POSITIVE
+favorite old uploading- FALSE POSITIVE
+day overnight- FALSE POSITIVE
+uploading a bunch- FALSE POSITIVE
+sure stays- FALSE POSITIVE
+mark entire folders- TRUE POSITIVE
+get a response- FALSE POSITIVE
+leave support- FALSE POSITIVE
+rd gen- FALSE POSITIVE
+update asap- FALSE POSITIVE
+updated today- FALSE POSITIVE
+added an upload- FALSE POSITIVE
+latest version- FALSE POSITIVE
+microsoft word documents- TRUE POSITIVE
+lost ability- FALSE POSITIVE
+left column- FALSE POSITIVE
+company longer- FALSE POSITIVE
+short names- FALSE POSITIVE
+vice versa simple- FALSE POSITIVE
+transferring photos- TRUE POSITIVE
+earned a fair- FALSE POSITIVE
+fair amount- FALSE POSITIVE
+clean cut copy- FALSE POSITIVE
+saving images- TRUE POSITIVE
+screen shot- FALSE POSITIVE
+do a screen- FALSE POSITIVE
+prefer clean cut- FALSE POSITIVE
+xls files- TRUE POSITIVE
+creating new spreadsheets- TRUE POSITIVE
+web research- FALSE POSITIVE
+recent version- FALSE POSITIVE
+add options- TRUE POSITIVE
+like fact- FALSE POSITIVE
+older versions- FALSE POSITIVE
+preview word- TRUE POSITIVE
+pdf documents- TRUE POSITIVE
+huge inconvenience- FALSE POSITIVE
+excellent functionality- FALSE POSITIVE
+flash drives- FALSE POSITIVE
+drives a thing- FALSE POSITIVE
+given option- FALSE POSITIVE
+option to numbers- FALSE POSITIVE
+latest revision loops- FALSE POSITIVE
+favorite files- TRUE POSITIVE
+precious memories- FALSE POSITIVE
+times with friends- FALSE POSITIVE
+put folders- TRUE POSITIVE
+put a folder- TRUE POSITIVE
+putting files- TRUE POSITIVE
+said update- FALSE POSITIVE
+wav files- TRUE POSITIVE
+started today- FALSE POSITIVE
+media hoopla- FALSE POSITIVE
+online email- FALSE POSITIVE
+storage area- TRUE POSITIVE
+online file storage- TRUE POSITIVE
+go with- FALSE POSITIVE
+keep your hair- FALSE POSITIVE
+send link- TRUE POSITIVE
+named folder- TRUE POSITIVE
+home computer- FALSE POSITIVE
+like page preview- FALSE POSITIVE
+general pdf- FALSE POSITIVE
+viewing experience worse- FALSE POSITIVE
+disorienting viewer returns- FALSE POSITIVE
+upgrade to pdfs- TRUE POSITIVE
+liked upgrade- FALSE POSITIVE
+home page- FALSE POSITIVE
+latest files- TRUE POSITIVE
+known bug- FALSE POSITIVE
+longer open excel- FALSE POSITIVE
+go online- TRUE POSITIVE
+web version- FALSE POSITIVE
+full purpose- FALSE POSITIVE
+desktop site- FALSE POSITIVE
+multiple times- FALSE POSITIVE
+basic things- FALSE POSITIVE
+see entire file- TRUE POSITIVE
+files sort- TRUE POSITIVE
+reallyy wish- FALSE POSITIVE
+im a student- FALSE POSITIVE
+book file- TRUE POSITIVE
+considering my book- FALSE POSITIVE
+put tv support- TRUE POSITIVE
+install yesterday- FALSE POSITIVE
+longer link- FALSE POSITIVE
+link my account- TRUE POSITIVE
+atomic web browser- TRUE POSITIVE
+next instead- FALSE POSITIVE
+uploading vids- FALSE POSITIVE
+pressing freezes- FALSE POSITIVE
+add files- TRUE POSITIVE
+simple suggestions- FALSE POSITIVE
+increase usability- FALSE POSITIVE
+leave folder- TRUE POSITIVE
+folder contents- TRUE POSITIVE
+smells a bit- FALSE POSITIVE
+refresh button maker- FALSE POSITIVE
+top left- FALSE POSITIVE
+high utility- FALSE POSITIVE
+implementable refresh button- FALSE POSITIVE
+first place- FALSE POSITIVE
+lost hundreds of photos- FALSE POSITIVE
+cloud option- TRUE POSITIVE
+docs i- FALSE POSITIVE
+expensive i- FALSE POSITIVE
+devises types- FALSE POSITIVE
+file types- TRUE POSITIVE
+menu problems- FALSE POSITIVE
+gb plan- FALSE POSITIVE
+run on older devices- FALSE POSITIVE
+last review- FALSE POSITIVE
+support mobi file- TRUE POSITIVE
+crappy hotel wifi- FALSE POSITIVE
+beginning every time- FALSE POSITIVE
+favorited downloads ability- FALSE POSITIVE
+technology to resume- FALSE POSITIVE
+keeps every time- FALSE POSITIVE
+non-starred files- TRUE POSITIVE
+eats my space- FALSE POSITIVE
+new air- FALSE POSITIVE
+open itunes- TRUE POSITIVE
+avid user- FALSE POSITIVE
+new upgrade- FALSE POSITIVE
+read huge files- TRUE POSITIVE
+released last week- FALSE POSITIVE
+work every time- FALSE POSITIVE
+repeated works- FALSE POSITIVE
+current version- FALSE POSITIVE
+slow nothing- FALSE POSITIVE
+bands new ep- FALSE POSITIVE
+exchange tracks- TRUE POSITIVE
+wav files- TRUE POSITIVE
+overall works- FALSE POSITIVE
+nice major update- FALSE POSITIVE
+audio files- TRUE POSITIVE
+ican access- FALSE POSITIVE
+store page- FALSE POSITIVE
+get drop box- FALSE POSITIVE
+drop box files- TRUE POSITIVE
+excel spread sheets- TRUE POSITIVE
+view my excel- TRUE POSITIVE
+photography clients- FALSE POSITIVE
+on-the-go sharing- FALSE POSITIVE
+minute video- FALSE POSITIVE
+accepted my file- TRUE POSITIVE
+did give permission- FALSE POSITIVE
+getting photos- TRUE POSITIVE
+generic response- FALSE POSITIVE
+do trust- FALSE POSITIVE
+latest version- FALSE POSITIVE
+video improvement- FALSE POSITIVE
+add support- TRUE POSITIVE
+blinding white- FALSE POSITIVE
+take pointers- FALSE POSITIVE
+single frustrating thing- FALSE POSITIVE
+flaw fact- FALSE POSITIVE
+wav files- TRUE POSITIVE
+rendered useless- FALSE POSITIVE
+refurbished older- FALSE POSITIVE
+brand new equipment- FALSE POSITIVE
+rendered useless- FALSE POSITIVE
+conjunction wirh drive- FALSE POSITIVE
+file manager- TRUE POSITIVE
+integrate a spam- TRUE POSITIVE
+change name of pictures- TRUE POSITIVE
+longer names- FALSE POSITIVE
+put flexibility in width- FALSE POSITIVE
+does thing- FALSE POSITIVE
+long time- FALSE POSITIVE
+put move share- FALSE POSITIVE
+selection screen- TRUE POSITIVE
+ipod touch- FALSE POSITIVE
+am without important documents- FALSE POSITIVE
+huge time saver- FALSE POSITIVE
+home page- TRUE POSITIVE
+organizing my devotionals- TRUE POSITIVE
+save notes from home- TRUE POSITIVE
+gotten weird bugs- FALSE POSITIVE
+heavy e-reader- FALSE POSITIVE
+musician and heavy- FALSE POSITIVE
+give us simple pdf- FALSE POSITIVE
+simple pdf markup abilities- TRUE POSITIVE
+pdfs with users- FALSE POSITIVE
+couple with ability- FALSE POSITIVE
+ms office docs- TRUE POSITIVE
+protected ms office- TRUE POSITIVE
+fastest program- FALSE POSITIVE
+select a bunch- FALSE POSITIVE
+major bummer- FALSE POSITIVE
+average job- FALSE POSITIVE
+download minecraft pe- FALSE POSITIVE
+minecraft pe maps- FALSE POSITIVE
+nice design refresh- FALSE POSITIVE
+large files- TRUE POSITIVE
+email a bunch- FALSE POSITIVE
+work email system- FALSE POSITIVE
+view content- TRUE POSITIVE
+get links- TRUE POSITIVE
+word videos- FALSE POSITIVE
+word docs- TRUE POSITIVE
+presentations a breeze- FALSE POSITIVE
+made presentations- TRUE POSITIVE
+latest version- FALSE POSITIVE
+playing my videos- TRUE POSITIVE
+like fact- FALSE POSITIVE
+share pictures- TRUE POSITIVE
+like time- FALSE POSITIVE
+keeps pictures- TRUE POSITIVE
+download pictures- TRUE POSITIVE
+downloading times- FALSE POSITIVE
+figure support- TRUE POSITIVE
+see functionality of media- TRUE POSITIVE
+allow play of songs- TRUE POSITIVE
+dear designers- FALSE POSITIVE
+band shares- FALSE POSITIVE
+put our songs- TRUE POSITIVE
+synced fast- FALSE POSITIVE
+sound files- TRUE POSITIVE
+existing folders- FALSE POSITIVE
+files a necessity- FALSE POSITIVE
+sound stops- TRUE POSITIVE
+fw controls- FALSE POSITIVE
+response asap- FALSE POSITIVE
+did nothing- FALSE POSITIVE
+taking space- FALSE POSITIVE
+changing my every- FALSE POSITIVE
+every couple- FALSE POSITIVE
+newer windows- FALSE POSITIVE
+am problems- FALSE POSITIVE
+craft a game- FALSE POSITIVE
+survival craft- FALSE POSITIVE
+me share with survival- FALSE POSITIVE
+survival craft- FALSE POSITIVE
+see suggestion- TRUE POSITIVE
+crucial school document- FALSE POSITIVE
+countless amount- FALSE POSITIVE
+perform exhaustive testing- FALSE POSITIVE
+newer versions- FALSE POSITIVE
+saving files for offline- TRUE POSITIVE
+endless loop- FALSE POSITIVE
+messiah hard- FALSE POSITIVE
+paid account- TRUE POSITIVE
+bit pricey- FALSE POSITIVE
+battery cause- FALSE POSITIVE
+cause your gps- FALSE POSITIVE
+gps time- FALSE POSITIVE
+update keeps- FALSE POSITIVE
+shutting my entire- FALSE POSITIVE
+taken drop box- FALSE POSITIVE
+major sync failure- FALSE POSITIVE
+put documents at work- FALSE POSITIVE
+delete a photo- TRUE POSITIVE
+dialog box- FALSE POSITIVE
+stop automatic upload- TRUE POSITIVE
+hit delete prompt- FALSE POSITIVE
+lost photos- FALSE POSITIVE
+usb port- FALSE POSITIVE
+transfer photos- TRUE POSITIVE
+interface a big disappointment- FALSE POSITIVE
+get version- FALSE POSITIVE
+cbz files- TRUE POSITIVE
+comic book reader- FALSE POSITIVE
+graded levels of subscription- TRUE POSITIVE
+truncated my files- TRUE POSITIVE
+complete pita- FALSE POSITIVE
+mb file- TRUE POSITIVE
+add missing- FALSE POSITIVE

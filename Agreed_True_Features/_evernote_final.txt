@@ -1,0 +1,625 @@
+magazine clippings- TRUE POSITIVE
+send reminders- TRUE POSITIVE
+see ability- FALSE POSITIVE
+set alarms- TRUE POSITIVE
+favorite and versatile- FALSE POSITIVE
+evernote ads- TRUE POSITIVE
+dog threw- FALSE POSITIVE
+design looks- FALSE POSITIVE
+original view- FALSE POSITIVE
+save themselves time- FALSE POSITIVE
+see review- TRUE POSITIVE
+reason my language- FALSE POSITIVE
+gtd system- FALSE POSITIVE
+new graphics- TRUE POSITIVE
+get newest version- FALSE POSITIVE
+idea everyone- FALSE POSITIVE
+add notes- TRUE POSITIVE
+deep breath folks- FALSE POSITIVE
+take a deep- FALSE POSITIVE
+list to office- FALSE POSITIVE
+office papers- FALSE POSITIVE
+wish a bullet option- FALSE POSITIVE
+slow note takers- FALSE POSITIVE
+classes wish- FALSE POSITIVE
+grocery lists- FALSE POSITIVE
+new os- FALSE POSITIVE
+tablet users- FALSE POSITIVE
+reliable right- FALSE POSITIVE
+complete cross-platform system- FALSE POSITIVE
+worked with dolphin- FALSE POSITIVE
+real bugs- FALSE POSITIVE
+updated evernote- FALSE POSITIVE
+like evernote- FALSE POSITIVE
+green interface- FALSE POSITIVE
+space to type- FALSE POSITIVE
+should goal- FALSE POSITIVE
+rolled advertisements- TRUE POSITIVE
+wrong time- FALSE POSITIVE
+seeing value- FALSE POSITIVE
+clutter your life- FALSE POSITIVE
+collect pieces of information- TRUE POSITIVE
+takes work- FALSE POSITIVE
+business items- FALSE POSITIVE
+personal items- FALSE POSITIVE
+behind new tag- FALSE POSITIVE
+logic behind- FALSE POSITIVE
+organize pops- TRUE POSITIVE
+find a master- FALSE POSITIVE
+gaping oversight- FALSE POSITIVE
+open program- TRUE POSITIVE
+lost a weeks- FALSE POSITIVE
+weeks worth- FALSE POSITIVE
+keep my thoughts- TRUE POSITIVE
+generous monthly allotment- FALSE POSITIVE
+buried things- FALSE POSITIVE
+broken regardless- FALSE POSITIVE
+new note title- TRUE POSITIVE
+first sentence- FALSE POSITIVE
+default new note- TRUE POSITIVE
+evernote my location- FALSE POSITIVE
+annoyance search- FALSE POSITIVE
+evernote history- TRUE POSITIVE
+first word- FALSE POSITIVE
+version a bit buggy- FALSE POSITIVE
+stars a reflection- FALSE POSITIVE
+keep recipes- TRUE POSITIVE
+car maintenance records- FALSE POSITIVE
+appliance parts- FALSE POSITIVE
+knitting patterns- FALSE POSITIVE
+parts numbers- FALSE POSITIVE
+appliance manuals- FALSE POSITIVE
+keep schedules- TRUE POSITIVE
+favorite sports teams- FALSE POSITIVE
+various cities- FALSE POSITIVE
+visit next time- FALSE POSITIVE
+cards articles- FALSE POSITIVE
+journal articles- FALSE POSITIVE
+read reviews- TRUE POSITIVE
+beginning writers- FALSE POSITIVE
+note choppy- FALSE POSITIVE
+keep animation simple- FALSE POSITIVE
+lousy work- FALSE POSITIVE
+evernote every day- FALSE POSITIVE
+new edition- FALSE POSITIVE
+rewrite lists- TRUE POSITIVE
+scatter-brained note taker- FALSE POSITIVE
+access my entries- TRUE POSITIVE
+rocks my socks- FALSE POSITIVE
+easier interface- FALSE POSITIVE
+keep my notes- TRUE POSITIVE
+like ui improvements- FALSE POSITIVE
+like drafts- FALSE POSITIVE
+old ui- FALSE POSITIVE
+add recent photos- TRUE POSITIVE
+main function- FALSE POSITIVE
+favorite restaurants- FALSE POSITIVE
+general info- FALSE POSITIVE
+keep track of notes- TRUE POSITIVE
+real benefit- FALSE POSITIVE
+searchable and available- FALSE POSITIVE
+do-anything note capabilities- FALSE POSITIVE
+huge time saver- FALSE POSITIVE
+cross-platform access- FALSE POSITIVE
+cloud brilliant- FALSE POSITIVE
+power mobile information- FALSE POSITIVE
+organizing capability- FALSE POSITIVE
+inexpensive bluetooth keyboard- FALSE POSITIVE
+combined with inexpensive bluetooth- FALSE POSITIVE
+deleted entire notes- TRUE POSITIVE
+slower and slower- FALSE POSITIVE
+go to writing- FALSE POSITIVE
+left for past updates- FALSE POSITIVE
+loads of poor reviews- FALSE POSITIVE
+note word- FALSE POSITIVE
+delete word- TRUE POSITIVE
+save my voice- TRUE POSITIVE
+hitting button- FALSE POSITIVE
+trust with important voice- FALSE POSITIVE
+brain function- FALSE POSITIVE
+middle age- FALSE POSITIVE
+wonderful substitute- FALSE POSITIVE
+important work tool- FALSE POSITIVE
+professional world- FALSE POSITIVE
+paper obsolete- FALSE POSITIVE
+pdfs old-fashioned pen- FALSE POSITIVE
+ability to search- FALSE POSITIVE
+am a college- FALSE POSITIVE
+college student- FALSE POSITIVE
+took me time- FALSE POSITIVE
+keep restring- FALSE POSITIVE
+restring my password- FALSE POSITIVE
+simply amazing interface- FALSE POSITIVE
+itineraries to e-tickets- FALSE POSITIVE
+computer wonderful- FALSE POSITIVE
+platforms a real bonus- FALSE POSITIVE
+fact works- FALSE POSITIVE
+put info- FALSE POSITIVE
+new user- FALSE POSITIVE
+first time- FALSE POSITIVE
+time magazine- FALSE POSITIVE
+overall functionality- FALSE POSITIVE
+missing a things- FALSE POSITIVE
+computer version- FALSE POSITIVE
+finger tips- FALSE POSITIVE
+record thoughts- TRUE POSITIVE
+tagged images clippings- TRUE POSITIVE
+bound package that helps- FALSE POSITIVE
+sticky instagram- FALSE POSITIVE
+sticky notes- TRUE POSITIVE
+sticky moleskins- FALSE POSITIVE
+sticky pages- TRUE POSITIVE
+sticky zotero- FALSE POSITIVE
+last version- FALSE POSITIVE
+version a factor- FALSE POSITIVE
+task management systems- FALSE POSITIVE
+single system- FALSE POSITIVE
+note systems in favor- FALSE POSITIVE
+meeting notes- TRUE POSITIVE
+home computer- FALSE POSITIVE
+computer cumbersome- FALSE POSITIVE
+sync process- FALSE POSITIVE
+okay evernote- FALSE POSITIVE
+call eversomething- FALSE POSITIVE
+text with proper- FALSE POSITIVE
+create rich text- TRUE POSITIVE
+underlying code- FALSE POSITIVE
+architecture difficult- FALSE POSITIVE
+like evernote- FALSE POSITIVE
+understand huge weakness- FALSE POSITIVE
+done a amount- FALSE POSITIVE
+proper evernote- FALSE POSITIVE
+leadership failure- FALSE POSITIVE
+cluttered mess- FALSE POSITIVE
+took me twice- FALSE POSITIVE
+sticky pad- FALSE POSITIVE
+jotting notes- TRUE POSITIVE
+notes summaries- TRUE POSITIVE
+journal summaries- TRUE POSITIVE
+sorting system- TRUE POSITIVE
+kept little slips- FALSE POSITIVE
+place items- FALSE POSITIVE
+later time- FALSE POSITIVE
+save recipes- TRUE POSITIVE
+later time- FALSE POSITIVE
+new design strange- FALSE POSITIVE
+key strokes- FALSE POSITIVE
+dont your time- FALSE POSITIVE
+en performance- FALSE POSITIVE
+find key words- TRUE POSITIVE
+reports failure- TRUE POSITIVE
+going premium- FALSE POSITIVE
+keeping an eye- FALSE POSITIVE
+previous review- FALSE POSITIVE
+less and clunky- FALSE POSITIVE
+looking for possible alternatives- FALSE POSITIVE
+w new design- FALSE POSITIVE
+en programmers- FALSE POSITIVE
+desktop software- FALSE POSITIVE
+request ability- FALSE POSITIVE
+plus new super- FALSE POSITIVE
+wrong direction- FALSE POSITIVE
+massive step- FALSE POSITIVE
+update and unusable- FALSE POSITIVE
+rate environment- TRUE POSITIVE
+business purposes- FALSE POSITIVE
+visual organizers- TRUE POSITIVE
+see option- FALSE POSITIVE
+ruined excellent- FALSE POSITIVE
+recent reviewers- FALSE POSITIVE
+create new ones- FALSE POSITIVE
+t test- FALSE POSITIVE
+post notes without post- FALSE POSITIVE
+get a memory- FALSE POSITIVE
+memory jog- FALSE POSITIVE
+overall maneuverability- FALSE POSITIVE
+put notes into notebooks- TRUE POSITIVE
+hate hard iris- FALSE POSITIVE
+screen snapshot- TRUE POSITIVE
+taking a screen- FALSE POSITIVE
+expedia itinerary- FALSE POSITIVE
+got bright idea- FALSE POSITIVE
+salad dressings- FALSE POSITIVE
+learning disabilities- FALSE POSITIVE
+bold print- FALSE POSITIVE
+access my material- TRUE POSITIVE
+new ideas- FALSE POSITIVE
+word document- TRUE POSITIVE
+gotten home- FALSE POSITIVE
+diaper changes- FALSE POSITIVE
+research papers- FALSE POSITIVE
+shopping lists- FALSE POSITIVE
+family shares- FALSE POSITIVE
+store travel info- TRUE POSITIVE
+school work- FALSE POSITIVE
+latest toys- FALSE POSITIVE
+little problem- FALSE POSITIVE
+gps a bit- FALSE POSITIVE
+does allow storage- FALSE POSITIVE
+lost my notes- TRUE POSITIVE
+badest ui- FALSE POSITIVE
+happen evernote- FALSE POSITIVE
+storing recipes- TRUE POSITIVE
+medical info- FALSE POSITIVE
+current meds- FALSE POSITIVE
+found an undo- FALSE POSITIVE
+stars hands- FALSE POSITIVE
+evernote my main- FALSE POSITIVE
+keep my projects- TRUE POSITIVE
+editing choices- FALSE POSITIVE
+long-time user- FALSE POSITIVE
+greater functionality- FALSE POSITIVE
+see photos- TRUE POSITIVE
+drastic loss- FALSE POSITIVE
+store sorts of data- TRUE POSITIVE
+wifi settings- FALSE POSITIVE
+software keys- FALSE POSITIVE
+do a companion- FALSE POSITIVE
+get act- FALSE POSITIVE
+notes available offline- FALSE POSITIVE
+purchase premium- TRUE POSITIVE
+poor students- FALSE POSITIVE
+main notes program- FALSE POSITIVE
+become my main- FALSE POSITIVE
+put outlook emails- TRUE POSITIVE
+work note-taking- FALSE POSITIVE
+personal note-taking- TRUE POSITIVE
+see complete parity- TRUE POSITIVE
+note ideas- FALSE POSITIVE
+keep my recipes- TRUE POSITIVE
+me to search- FALSE POSITIVE
+locate an ingredient- TRUE POSITIVE
+search my notebooks- TRUE POSITIVE
+access my notes- TRUE POSITIVE
+flat fee- FALSE POSITIVE
+missing ability- FALSE POSITIVE
+noticed paragraph section- FALSE POSITIVE
+my favorite and- FALSE POSITIVE
+and on- FALSE POSITIVE
+on my ipod- FALSE POSITIVE
+job meetings- FALSE POSITIVE
+at church- FALSE POSITIVE
+new password- FALSE POSITIVE
+household software name- FALSE POSITIVE
+social media options- TRUE POSITIVE
+bridging gap- FALSE POSITIVE
+bravo evernote- FALSE POSITIVE
+evernote an excellent- FALSE POSITIVE
+premium subscriber- TRUE POSITIVE
+latest iteration- FALSE POSITIVE
+m an evernote- FALSE POSITIVE
+evernote evangelist- FALSE POSITIVE
+original review- FALSE POSITIVE
+hard work- FALSE POSITIVE
+premium subscriber- TRUE POSITIVE
+copy note links- TRUE POSITIVE
+add ability- FALSE POSITIVE
+forced a sync- TRUE POSITIVE
+new and re-launched- FALSE POSITIVE
+force quit- FALSE POSITIVE
+mon guys- FALSE POSITIVE
+recent upgrade- FALSE POSITIVE
+create an account- TRUE POSITIVE
+login requirement- FALSE POSITIVE
+standalone note- TRUE POSITIVE
+liked of older version- FALSE POSITIVE
+option to paragraph- FALSE POSITIVE
+but still- FALSE POSITIVE
+editing ability- FALSE POSITIVE
+allow additional font- FALSE POSITIVE
+robust editing- FALSE POSITIVE
+evernote longer- FALSE POSITIVE
+font control- TRUE POSITIVE
+editing random- FALSE POSITIVE
+icons graphics- FALSE POSITIVE
+flashy graphics- FALSE POSITIVE
+canceling my membership- TRUE POSITIVE
+membership today- FALSE POSITIVE
+early adopter- FALSE POSITIVE
+personal reference- FALSE POSITIVE
+times a day- FALSE POSITIVE
+review your notes- TRUE POSITIVE
+made my job- FALSE POSITIVE
+write my notes- TRUE POSITIVE
+evernote my go- FALSE POSITIVE
+wish a date- FALSE POSITIVE
+things productivity- FALSE POSITIVE
+food journals- FALSE POSITIVE
+storing contacts- TRUE POSITIVE
+son artwork- FALSE POSITIVE
+access your notes- TRUE POSITIVE
+syncs with evernote- FALSE POSITIVE
+looses his notebooks- FALSE POSITIVE
+handwritten notes- FALSE POSITIVE
+super cool- FALSE POSITIVE
+evernote food- FALSE POSITIVE
+evernote religion- FALSE POSITIVE
+handy tools- FALSE POSITIVE
+numbering fail- FALSE POSITIVE
+take longer- FALSE POSITIVE
+formatting problems- FALSE POSITIVE
+retyping notes- FALSE POSITIVE
+error message- FALSE POSITIVE
+give an error- FALSE POSITIVE
+does allow me- FALSE POSITIVE
+tracking my prospects- TRUE POSITIVE
+manner with evernotes- FALSE POSITIVE
+specific models- FALSE POSITIVE
+recall prospects- FALSE POSITIVE
+look at latest entries- FALSE POSITIVE
+order searches- TRUE POSITIVE
+search works fine- FALSE POSITIVE
+dollars a month- FALSE POSITIVE
+big chunks- FALSE POSITIVE
+reference documents- TRUE POSITIVE
+sending copies- TRUE POSITIVE
+longest time- FALSE POSITIVE
+shows an arrow- FALSE POSITIVE
+evernote premium user- TRUE POSITIVE
+first go round- FALSE POSITIVE
+m an evernote- FALSE POSITIVE
+wish interface- FALSE POSITIVE
+easy-to-use program- FALSE POSITIVE
+forfiver a year- FALSE POSITIVE
+evernote forfiver- FALSE POSITIVE
+reduce paper clutter- FALSE POSITIVE
+garden magazines- FALSE POSITIVE
+daily goto- FALSE POSITIVE
+covers delivers- FALSE POSITIVE
+ui clunky- FALSE POSITIVE
+full time- FALSE POSITIVE
+ll see- FALSE POSITIVE
+allowed functions- FALSE POSITIVE
+do wish- FALSE POSITIVE
+m organization- FALSE POSITIVE
+ease evernote- FALSE POSITIVE
+new reminders- TRUE POSITIVE
+set days- TRUE POSITIVE
+did understand spirit- FALSE POSITIVE
+thrown door- FALSE POSITIVE
+simple actions- FALSE POSITIVE
+various productivity tasks- FALSE POSITIVE
+dated march- FALSE POSITIVE
+single time- FALSE POSITIVE
+alphabetical order- FALSE POSITIVE
+reason to update- FALSE POSITIVE
+biggest advocates- FALSE POSITIVE
+update with reminders- FALSE POSITIVE
+last week- FALSE POSITIVE
+central control- FALSE POSITIVE
+difficult situation- FALSE POSITIVE
+reported a typing- FALSE POSITIVE
+new notebook- TRUE POSITIVE
+design flaws- FALSE POSITIVE
+accessing a computer- FALSE POSITIVE
+manage your evernote- TRUE POSITIVE
+m sure team- FALSE POSITIVE
+maintenance tasks- FALSE POSITIVE
+keep track of recipes- TRUE POSITIVE
+evernote an excellent- FALSE POSITIVE
+last year- FALSE POSITIVE
+afterr organizers- FALSE POSITIVE
+recall business cards- TRUE POSITIVE
+m an idiot- FALSE POSITIVE
+core functionality- FALSE POSITIVE
+add ons- FALSE POSITIVE
+like concept- FALSE POSITIVE
+scratch surface of capabilities- FALSE POSITIVE
+important document- FALSE POSITIVE
+eliminated paper notes- FALSE POSITIVE
+classifying a note- TRUE POSITIVE
+load dec- FALSE POSITIVE
+wish a passcode to- FALSE POSITIVE
+passcode to open- FALSE POSITIVE
+any entrepreneur- FALSE POSITIVE
+retrieving simple- FALSE POSITIVE
+life simpler- FALSE POSITIVE
+ability to access- FALSE POSITIVE
+voice tags- TRUE POSITIVE
+voice pictures- TRUE POSITIVE
+lost my notes- FALSE POSITIVE
+work guys- FALSE POSITIVE
+current programmers- FALSE POSITIVE
+fans a favor- FALSE POSITIVE
+do your fans- FALSE POSITIVE
+primary note- TRUE POSITIVE
+earlier version- FALSE POSITIVE
+formatting changes- FALSE POSITIVE
+changes to notes- TRUE POSITIVE
+indent option- TRUE POSITIVE
+know an outline- FALSE POSITIVE
+think deserves- FALSE POSITIVE
+deserves a low review- FALSE POSITIVE
+adding recipes- TRUE POSITIVE
+project together regardless- FALSE POSITIVE
+keeping pieces- FALSE POSITIVE
+remodeling projects- TRUE POSITIVE
+freakin joke- FALSE POSITIVE
+missing hotkeys- FALSE POSITIVE
+dear friends- FALSE POSITIVE
+outdated versions- FALSE POSITIVE
+overwriting my notes- TRUE POSITIVE
+update spot- FALSE POSITIVE
+working fine- FALSE POSITIVE
+upload my data- TRUE POSITIVE
+consistent multi-platform experience- FALSE POSITIVE
+organizing heart- FALSE POSITIVE
+drool-inducing order- FALSE POSITIVE
+flipping pages- TRUE POSITIVE
+long list- FALSE POSITIVE
+get cross-eyed hunting- FALSE POSITIVE
+colored notebooks- TRUE POSITIVE
+amazing information- FALSE POSITIVE
+buying upgrade- FALSE POSITIVE
+getting notes- TRUE POSITIVE
+huge fan- FALSE POSITIVE
+blank screen- FALSE POSITIVE
+seeing a blank- FALSE POSITIVE
+evernote people- FALSE POSITIVE
+problems with evernote- FALSE POSITIVE
+encountered nothing- FALSE POSITIVE
+serious quality problems- FALSE POSITIVE
+maintain notebook names- TRUE POSITIVE
+notes notebooks- FALSE POSITIVE
+work business- FALSE POSITIVE
+personal business- FALSE POSITIVE
+unimportant notes- FALSE POSITIVE
+copy from penultimate straight- FALSE POSITIVE
+straight to evernote- FALSE POSITIVE
+see another program- FALSE POSITIVE
+work purposes- FALSE POSITIVE
+personal purposes- FALSE POSITIVE
+eliminating paper clutter- FALSE POSITIVE
+work meetings- FALSE POSITIVE
+integration with saas- TRUE POSITIVE
+saas tools- TRUE POSITIVE
+scanned documents- TRUE POSITIVE
+wife to evernote- FALSE POSITIVE
+switched my wife- FALSE POSITIVE
+grocery list yesterday- FALSE POSITIVE
+do people- FALSE POSITIVE
+interrupted my work- FALSE POSITIVE
+work flow- FALSE POSITIVE
+reminders my go-to- FALSE POSITIVE
+browser version- FALSE POSITIVE
+recording ideas- TRUE POSITIVE
+paste my passwords- TRUE POSITIVE
+location search option- TRUE POSITIVE
+option handy- FALSE POSITIVE
+paste copies of receipts- TRUE POSITIVE
+wish instructions clearer- FALSE POSITIVE
+fellow southwestair flyer- FALSE POSITIVE
+original mini- FALSE POSITIVE
+giving a rating- FALSE POSITIVE
+get full screen- TRUE POSITIVE
+like options- FALSE POSITIVE
+enables users- FALSE POSITIVE
+bucks a year- FALSE POSITIVE
+icloud free- FALSE POSITIVE
+itunes account- TRUE POSITIVE
+like junk- FALSE POSITIVE
+go premium- TRUE POSITIVE
+frequent response- FALSE POSITIVE
+go to that- FALSE POSITIVE
+laptop version- FALSE POSITIVE
+that keyword- FALSE POSITIVE
+keyword search- TRUE POSITIVE
+organize my thoughts- TRUE POSITIVE
+dimensional and impossible- FALSE POSITIVE
+evernote team consider- FALSE POSITIVE
+outline my notes- TRUE POSITIVE
+otherwise update- FALSE POSITIVE
+big down- FALSE POSITIVE
+organizational techniques- FALSE POSITIVE
+david allen- FALSE POSITIVE
+getting things done- FALSE POSITIVE
+household chores- FALSE POSITIVE
+shopping lists- TRUE POSITIVE
+work tasks- FALSE POSITIVE
+got things- FALSE POSITIVE
+notes that aid- FALSE POSITIVE
+medical evaluations- TRUE POSITIVE
+cheating my memory- FALSE POSITIVE
+positioning glitchy- FALSE POSITIVE
+draw a red line- TRUE POSITIVE
+previous version- FALSE POSITIVE
+start phasing- FALSE POSITIVE
+past years- FALSE POSITIVE
+keeping track of kinds- FALSE POSITIVE
+daily journal- FALSE POSITIVE
+m done with data- FALSE POSITIVE
+give instructions- TRUE POSITIVE
+buy a book- TRUE POSITIVE
+evernote okay- FALSE POSITIVE
+entire document- TRUE POSITIVE
+bit jerky- FALSE POSITIVE
+seems a bit- FALSE POSITIVE
+endured slow process- FALSE POSITIVE
+bungled attempt- FALSE POSITIVE
+evernote qc group- FALSE POSITIVE
+tool to manage- FALSE POSITIVE
+scattered notes- FALSE POSITIVE
+manage multiple projects- TRUE POSITIVE
+evernote hello- FALSE POSITIVE
+multiple times- FALSE POSITIVE
+listed under wrong name- FALSE POSITIVE
+screen real estate- FALSE POSITIVE
+understand limited screen- FALSE POSITIVE
+ms office- FALSE POSITIVE
+halt my ms- FALSE POSITIVE
+ruined my windows- FALSE POSITIVE
+repair effects of program- FALSE POSITIVE
+evernote longer- FALSE POSITIVE
+new os- FALSE POSITIVE
+bad call- FALSE POSITIVE
+premium subscription expire- FALSE POSITIVE
+find a user- TRUE POSITIVE
+user name- FALSE POSITIVE
+spent an hour- FALSE POSITIVE
+give a zero- FALSE POSITIVE
+past pains- FALSE POSITIVE
+past years- FALSE POSITIVE
+cross fingers- FALSE POSITIVE
+user name- FALSE POSITIVE
+vice versa- FALSE POSITIVE
+btw solution- FALSE POSITIVE
+re a problem- FALSE POSITIVE
+problem w- FALSE POSITIVE
+annoying happens- FALSE POSITIVE
+bad ui- FALSE POSITIVE
+working for practical purposes- FALSE POSITIVE
+post an updated review- TRUE POSITIVE
+sell post notes- TRUE POSITIVE
+new process- FALSE POSITIVE
+find interface- FALSE POSITIVE
+biggest fault w poor- FALSE POSITIVE
+updates my shopping- FALSE POSITIVE
+supermarket updates- FALSE POSITIVE
+notes change over course- FALSE POSITIVE
+made changes- FALSE POSITIVE
+refresh again- FALSE POSITIVE
+last device- FALSE POSITIVE
+give guys credit- FALSE POSITIVE
+drag headers- TRUE POSITIVE
+useless fluff- FALSE POSITIVE
+screen real estate- FALSE POSITIVE
+landscape mode- TRUE POSITIVE
+watching slow animations- TRUE POSITIVE
+see our notes- TRUE POSITIVE
+appreciate efforts- FALSE POSITIVE
+interface a step backwards- FALSE POSITIVE
+thank you- FALSE POSITIVE
+update your slick- FALSE POSITIVE
+text proper- FALSE POSITIVE
+entry a big deal- FALSE POSITIVE
+disappointed in weird behavior- FALSE POSITIVE
+line breaks- TRUE POSITIVE
+test releases- FALSE POSITIVE
+took releases- FALSE POSITIVE
+first time- FALSE POSITIVE
+update evernote- FALSE POSITIVE
+business meetings- FALSE POSITIVE
+italics functions- TRUE POSITIVE
+key control- FALSE POSITIVE
+support flawless- FALSE POSITIVE
+avid note taker- FALSE POSITIVE
+full capability- FALSE POSITIVE
+list maker- FALSE POSITIVE
+am evernote- FALSE POSITIVE
+putting due dates- FALSE POSITIVE
+organized fashion- FALSE POSITIVE
+m a writer- FALSE POSITIVE
+deleted my notes- TRUE POSITIVE
+found evernote- FALSE POSITIVE
+long time premium user- FALSE POSITIVE
+considering options- FALSE POSITIVE
+avoided updating- FALSE POSITIVE
+precious info gone- FALSE POSITIVE
+existing info- FALSE POSITIVE
+dreams that wake- FALSE POSITIVE
+creative writing- FALSE POSITIVE
+grocery lists- FALSE POSITIVE
+strange dreams- FALSE POSITIVE
+writing to notes- FALSE POSITIVE
+user imaginative shortcomings- FALSE POSITIVE
+vaguest impression- FALSE POSITIVE

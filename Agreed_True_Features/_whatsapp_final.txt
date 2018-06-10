@@ -1,0 +1,64 @@
+single star- FALSE POSITIVE
+update new version- TRUE POSITIVE
+time m- FALSE POSITIVE
+anyways help- FALSE POSITIVE
+updates awesome- FALSE POSITIVE
+keep up- FALSE POSITIVE
+connect peoples- TRUE POSITIVE
+samsung galaxy note- FALSE POSITIVE
+nice like- FALSE POSITIVE
+like a lottt- FALSE POSITIVE
+bt v- FALSE POSITIVE
+s a bit- FALSE POSITIVE
+whatsapp problem- FALSE POSITIVE
+excellent cool- FALSE POSITIVE
+messenger excellent- FALSE POSITIVE
+error report ok- FALSE POSITIVE
+share thoughts- TRUE POSITIVE
+uninstalled my galaxy- FALSE POSITIVE
+abdul downloading- FALSE POSITIVE
+social ever- FALSE POSITIVE
+wish work- FALSE POSITIVE
+normal texting- TRUE POSITIVE
+read notifications- TRUE POSITIVE
+excellent messenger- FALSE POSITIVE
+s fine plz- FALSE POSITIVE
+fine plz add- FALSE POSITIVE
+add a symbol- TRUE POSITIVE
+ok updating- FALSE POSITIVE
+watsapp nice- FALSE POSITIVE
+spend credit- TRUE POSITIVE
+epic msnger- FALSE POSITIVE
+add my flag- TRUE POSITIVE
+third class canot- FALSE POSITIVE
+new flags- TRUE POSITIVE
+now a days- FALSE POSITIVE
+device now- FALSE POSITIVE
+v device- FALSE POSITIVE
+htc desire v- FALSE POSITIVE
+big problem- FALSE POSITIVE
+increase size videos- TRUE POSITIVE
+allowed your last online- FALSE POSITIVE
+excellent communication- FALSE POSITIVE
+goodul work fast- FALSE POSITIVE
+facing problem- FALSE POSITIVE
+send gets- FALSE POSITIVE
+important bcz fulfils role- FALSE POSITIVE
+bein a communicational avenue- FALSE POSITIVE
+nthng important bcz- FALSE POSITIVE
+wish dat whatsapp alert- FALSE POSITIVE
+shubham kumar- FALSE POSITIVE
+like bcoz- FALSE POSITIVE
+super nice- FALSE POSITIVE
+group update- FALSE POSITIVE
+group increase participants- TRUE POSITIVE
+send pdf file- TRUE POSITIVE
+file to frnds- FALSE POSITIVE
+goood payment- FALSE POSITIVE
+receive notification- TRUE POSITIVE
+put for android thing- FALSE POSITIVE
+connected world brought- FALSE POSITIVE
+ordinary sms- TRUE POSITIVE
+profile picture- TRUE POSITIVE
+c my profile- FALSE POSITIVE
+full stars- FALSE POSITIVE

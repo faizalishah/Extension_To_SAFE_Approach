@@ -1,0 +1,378 @@
+keep your progress- TRUE POSITIVE
+deleted my progress- TRUE POSITIVE
+hate tower defense- FALSE POSITIVE
+tower defense games- FALSE POSITIVE
+fire a bird- TRUE POSITIVE
+new power- TRUE POSITIVE
+change direction- TRUE POSITIVE
+free and new- FALSE POSITIVE
+ages with ability- FALSE POSITIVE
+update every time- FALSE POSITIVE
+full original game- FALSE POSITIVE
+deny birds- TRUE POSITIVE
+new reds mighty- FALSE POSITIVE
+eagle a bad copy- FALSE POSITIVE
+last review- FALSE POSITIVE
+little picture game counts- FALSE POSITIVE
+like new theme- FALSE POSITIVE
+well worth- FALSE POSITIVE
+million dollar- FALSE POSITIVE
+well annoying million- FALSE POSITIVE
+dollar mobile game- FALSE POSITIVE
+game time sigh- FALSE POSITIVE
+buy game time- FALSE POSITIVE
+mon rovio- FALSE POSITIVE
+big company- FALSE POSITIVE
+find points- TRUE POSITIVE
+single time- FALSE POSITIVE
+get a bit- FALSE POSITIVE
+previous levels- TRUE POSITIVE
+classic angry birds- FALSE POSITIVE
+m sure levels- FALSE POSITIVE
+tablet gaming- FALSE POSITIVE
+angry birds unique- FALSE POSITIVE
+angry birds bad- FALSE POSITIVE
+made call- TRUE POSITIVE
+decided that forcing marriage- FALSE POSITIVE
+take crap level- FALSE POSITIVE
+give us regular angry- FALSE POSITIVE
+regular angry bird levels- TRUE POSITIVE
+okay game- FALSE POSITIVE
+play a level- TRUE POSITIVE
+level audio trips- TRUE POSITIVE
+home screen- TRUE POSITIVE
+dark screen- FALSE POSITIVE
+play a level- TRUE POSITIVE
+avid angry birds fan- FALSE POSITIVE
+disgusted with newest levels- FALSE POSITIVE
+angry birds games- FALSE POSITIVE
+major fail- FALSE POSITIVE
+give zero stars- TRUE POSITIVE
+ab team- FALSE POSITIVE
+realized game- FALSE POSITIVE
+got free thanks- FALSE POSITIVE
+thanks to featurepoints- FALSE POSITIVE
+friends -get free- FALSE POSITIVE
+-download free- FALSE POSITIVE
+free itunes card- FALSE POSITIVE
+refer friends- TRUE POSITIVE
+-get free points -get- FALSE POSITIVE
+-get your free- FALSE POSITIVE
+referral box -download- FALSE POSITIVE
+single time- FALSE POSITIVE
+stinks every ones companies- FALSE POSITIVE
+update stinks- FALSE POSITIVE
+update plain- FALSE POSITIVE
+real reward- FALSE POSITIVE
+thing to levels- FALSE POSITIVE
+additional tools- TRUE POSITIVE
+gel fight pigs- FALSE POSITIVE
+game fine- FALSE POSITIVE
+game ads- TRUE POSITIVE
+buying games- TRUE POSITIVE
+till ads- FALSE POSITIVE
+lol cool- FALSE POSITIVE
+slingshot birds- TRUE POSITIVE
+favorite game- FALSE POSITIVE
+im a busy grown- FALSE POSITIVE
+ab lol- FALSE POSITIVE
+blast together- FALSE POSITIVE
+m an ab- FALSE POSITIVE
+release with eggs- FALSE POSITIVE
+star philosophy ruined- FALSE POSITIVE
+lost a fan- FALSE POSITIVE
+playing angry birds- TRUE POSITIVE
+latest level- TRUE POSITIVE
+takes game- FALSE POSITIVE
+semi-literate morons- FALSE POSITIVE
+come home- FALSE POSITIVE
+big fan- FALSE POSITIVE
+hurts my hands- FALSE POSITIVE
+build skills- TRUE POSITIVE
+player a fair shake- FALSE POSITIVE
+daily player- FALSE POSITIVE
+sapped my free time- FALSE POSITIVE
+game a couple- FALSE POSITIVE
+show with jimmy- FALSE POSITIVE
+mentioned angry birds- FALSE POSITIVE
+late show- FALSE POSITIVE
+jimmy fallon- FALSE POSITIVE
+wife divorce- FALSE POSITIVE
+complex strategy- FALSE POSITIVE
+stab pigs- TRUE POSITIVE
+kiss good-bye- FALSE POSITIVE
+still a game- FALSE POSITIVE
+birds a awesome- FALSE POSITIVE
+does anybody remember- FALSE POSITIVE
+remember old angry- FALSE POSITIVE
+slingshot games- FALSE POSITIVE
+update worth playing- FALSE POSITIVE
+avid angry birds fan- FALSE POSITIVE
+going with previous updates- FALSE POSITIVE
+candy crush- FALSE POSITIVE
+continue playing candy- FALSE POSITIVE
+tell me day- FALSE POSITIVE
+day update- FALSE POSITIVE
+like my money- FALSE POSITIVE
+buy took of game- FALSE POSITIVE
+constant interruptions- FALSE POSITIVE
+auto send- TRUE POSITIVE
+game an excellent replay- FALSE POSITIVE
+remove ads- TRUE POSITIVE
+unfair rovio- FALSE POSITIVE
+favorite game- FALSE POSITIVE
+created newest levels- TRUE POSITIVE
+ipod touch- FALSE POSITIVE
+level hugs nuts- FALSE POSITIVE
+get game- FALSE POSITIVE
+receive my refund- TRUE POSITIVE
+ruined icon- FALSE POSITIVE
+icon anyways- FALSE POSITIVE
+add stupid power- FALSE POSITIVE
+longer brag- FALSE POSITIVE
+got stars- TRUE POSITIVE
+ll honor system- FALSE POSITIVE
+add stupid cartoon- FALSE POSITIVE
+lamest thing- FALSE POSITIVE
+newest episode- TRUE POSITIVE
+changed gameplay in newest- FALSE POSITIVE
+m sorry rovio- FALSE POSITIVE
+betrayed gamers- FALSE POSITIVE
+videogame company- FALSE POSITIVE
+lost credibility as videogame- FALSE POSITIVE
+exit update- TRUE POSITIVE
+content perspective- FALSE POSITIVE
+shoving new shock- FALSE POSITIVE
+keep buying- FALSE POSITIVE
+spend money- TRUE POSITIVE
+desperate attempt- FALSE POSITIVE
+revenue generation- TRUE POSITIVE
+stop with continual pop- FALSE POSITIVE
+bad form- FALSE POSITIVE
+angry birds lord- FALSE POSITIVE
+blow my mind- FALSE POSITIVE
+shockwave blow- FALSE POSITIVE
+my sister- FALSE POSITIVE
+nice update- FALSE POSITIVE
+new format- TRUE POSITIVE
+old format- TRUE POSITIVE
+favorite game- FALSE POSITIVE
+game number- FALSE POSITIVE
+candy crush- FALSE POSITIVE
+disappointed and hate- FALSE POSITIVE
+teaches you motor- FALSE POSITIVE
+motor skills- TRUE POSITIVE
+take a day- FALSE POSITIVE
+team angry- FALSE POSITIVE
+lacks destructive freedom- FALSE POSITIVE
+first place- FALSE POSITIVE
+hit terrible update- FALSE POSITIVE
+dropped ball on update- FALSE POSITIVE
+m fine- FALSE POSITIVE
+like that ridiculous game- FALSE POSITIVE
+see a leader- TRUE POSITIVE
+stupid thing- FALSE POSITIVE
+thing every couple days- FALSE POSITIVE
+should an option- FALSE POSITIVE
+give me star- TRUE POSITIVE
+star reviews- TRUE POSITIVE
+rovio sees- FALSE POSITIVE
+spent my money- TRUE POSITIVE
+horrible update- FALSE POSITIVE
+look rovio- FALSE POSITIVE
+mean angry birds- FALSE POSITIVE
+btw angry birds- FALSE POSITIVE
+birds a game- FALSE POSITIVE
+hard work- FALSE POSITIVE
+angry birds levels- TRUE POSITIVE
+miss old angry- FALSE POSITIVE
+rewards power- TRUE POSITIVE
+slot machine longer- FALSE POSITIVE
+longer loads- FALSE POSITIVE
+brain work- FALSE POSITIVE
+average nonsense game- FALSE POSITIVE
+new things- FALSE POSITIVE
+first time- FALSE POSITIVE
+function causes- FALSE POSITIVE
+rovio account- FALSE POSITIVE
+error message- FALSE POSITIVE
+old version- FALSE POSITIVE
+downloading angry birds- FALSE POSITIVE
+downloaded a cheap- FALSE POSITIVE
+cheap knockoff- FALSE POSITIVE
+tournament every week- FALSE POSITIVE
+but they- FALSE POSITIVE
+virus scans but- FALSE POSITIVE
+initial thought- FALSE POSITIVE
+bc rest- FALSE POSITIVE
+real ab- FALSE POSITIVE
+kidding awesome- FALSE POSITIVE
+time with patch- FALSE POSITIVE
+might feathers- FALSE POSITIVE
+new section- TRUE POSITIVE
+do a beating- FALSE POSITIVE
+rovio opens eyes- FALSE POSITIVE
+sees that people- FALSE POSITIVE
+stop pigs- TRUE POSITIVE
+called angry birds- FALSE POSITIVE
+electrified bomb bird- TRUE POSITIVE
+pause button- TRUE POSITIVE
+nagging suspicion that game- FALSE POSITIVE
+might nice- FALSE POSITIVE
+give zero stars- TRUE POSITIVE
+original and creative- FALSE POSITIVE
+do equilibrium laws- FALSE POSITIVE
+thing today- FALSE POSITIVE
+fing hate reds- FALSE POSITIVE
+feathers pigs- FALSE POSITIVE
+deserve egg- TRUE POSITIVE
+home screen- TRUE POSITIVE
+load level- TRUE POSITIVE
+worth tr aggravation- FALSE POSITIVE
+shoot pigs- TRUE POSITIVE
+last year- FALSE POSITIVE
+and now- FALSE POSITIVE
+driving me crazy- FALSE POSITIVE
+rovio logo- FALSE POSITIVE
+s driving me- FALSE POSITIVE
+incorporated worst game- FALSE POSITIVE
+greatest games- FALSE POSITIVE
+longer ol- FALSE POSITIVE
+game with ol- FALSE POSITIVE
+thought thats- FALSE POSITIVE
+various spin offs- FALSE POSITIVE
+created various spin- FALSE POSITIVE
+believe deserves- FALSE POSITIVE
+post review- TRUE POSITIVE
+new but classic- FALSE POSITIVE
+buy commercialization- FALSE POSITIVE
+short fuse- FALSE POSITIVE
+first horrible reds- FALSE POSITIVE
+well done- FALSE POSITIVE
+cacophonous new intro- FALSE POSITIVE
+horrible overhaul- FALSE POSITIVE
+feather crap- FALSE POSITIVE
+next and difficult- FALSE POSITIVE
+classic episode- TRUE POSITIVE
+brilliant kinetic puzzle- FALSE POSITIVE
+mindless click- FALSE POSITIVE
+require little strategy- FALSE POSITIVE
+original angry birds- FALSE POSITIVE
+update feces- FALSE POSITIVE
+poached eggs- FALSE POSITIVE
+angry a birds- FALSE POSITIVE
+inch display- FALSE POSITIVE
+animated toon- TRUE POSITIVE
+home screen- TRUE POSITIVE
+see hype- FALSE POSITIVE
+throw birds- TRUE POSITIVE
+casual gamers- FALSE POSITIVE
+nintendo games- FALSE POSITIVE
+cute games- FALSE POSITIVE
+master each game- FALSE POSITIVE
+takes a long time- FALSE POSITIVE
+time to master- FALSE POSITIVE
+next game- TRUE POSITIVE
+candy crush- FALSE POSITIVE
+pet rescue- TRUE POSITIVE
+latest version- FALSE POSITIVE
+deleted angry birds- TRUE POSITIVE
+delete game- TRUE POSITIVE
+getting text msgs- TRUE POSITIVE
+do take- FALSE POSITIVE
+pals a birds- FALSE POSITIVE
+delete my old pals- TRUE POSITIVE
+think time- FALSE POSITIVE
+joe version- FALSE POSITIVE
+should levels- FALSE POSITIVE
+sponge bob squarepants- FALSE POSITIVE
+billy joel music- FALSE POSITIVE
+youse billy joel- FALSE POSITIVE
+got game- FALSE POSITIVE
+frustrating gameplay- FALSE POSITIVE
+made game- FALSE POSITIVE
+thank zeus- FALSE POSITIVE
+fire somebody- FALSE POSITIVE
+do you open- FALSE POSITIVE
+game a twist- FALSE POSITIVE
+little bit- FALSE POSITIVE
+spent a bit- FALSE POSITIVE
+huge fan- FALSE POSITIVE
+blood violence- FALSE POSITIVE
+usual gun- FALSE POSITIVE
+like game- FALSE POSITIVE
+last ab game- FALSE POSITIVE
+read your reviews- TRUE POSITIVE
+star with nothing- FALSE POSITIVE
+lies decisions- FALSE POSITIVE
+bad decisions- FALSE POSITIVE
+once franchise sad- FALSE POSITIVE
+ruined once franchise- FALSE POSITIVE
+angry birds dead- FALSE POSITIVE
+play a level- TRUE POSITIVE
+blue bar- FALSE POSITIVE
+home screen- TRUE POSITIVE
+ignore negative reviews- TRUE POSITIVE
+re old school- FALSE POSITIVE
+brought excitement- FALSE POSITIVE
+hit-it does- FALSE POSITIVE
+ruining super game- FALSE POSITIVE
+mighty hoax- FALSE POSITIVE
+poached eggs- FALSE POSITIVE
+happy old music- FALSE POSITIVE
+aim birds- TRUE POSITIVE
+fact both star- FALSE POSITIVE
+believe rovio went- FALSE POSITIVE
+went to trouble- FALSE POSITIVE
+made game- FALSE POSITIVE
+played ab- FALSE POSITIVE
+inserted adverts into game- TRUE POSITIVE
+sneak ads- TRUE POSITIVE
+playing angry birds- TRUE POSITIVE
+upper left- FALSE POSITIVE
+hide bird- TRUE POSITIVE
+screen get- FALSE POSITIVE
+problem icons- FALSE POSITIVE
+add another icon- TRUE POSITIVE
+icon difficult- FALSE POSITIVE
+high bird- FALSE POSITIVE
+shows gray icon- FALSE POSITIVE
+improve display- FALSE POSITIVE
+and u pay- FALSE POSITIVE
+stopped playing- TRUE POSITIVE
+suggest that next angry- FALSE POSITIVE
+next angry bird angry- FALSE POSITIVE
+real angry birds- FALSE POSITIVE
+success yes- FALSE POSITIVE
+am stuck- FALSE POSITIVE
+tv gets- FALSE POSITIVE
+star efforts- FALSE POSITIVE
+gives game- FALSE POSITIVE
+get help from characters- TRUE POSITIVE
+finished ab levels- FALSE POSITIVE
+next time- FALSE POSITIVE
+update with power- TRUE POSITIVE
+help people- TRUE POSITIVE
+should a minecraft- FALSE POSITIVE
+wish levels- FALSE POSITIVE
+cash-grab operation- FALSE POSITIVE
+buy iaps- FALSE POSITIVE
+walking wallets- FALSE POSITIVE
+close window- TRUE POSITIVE
+requires a cool- FALSE POSITIVE
+next level- TRUE POSITIVE
+straight-up false advertising- FALSE POSITIVE
+iap income- FALSE POSITIVE
+intuitive gameplay- FALSE POSITIVE
+gives impression- FALSE POSITIVE
+welcomed addition- FALSE POSITIVE
+game number- FALSE POSITIVE
+bad job- FALSE POSITIVE
+massive angry birds fan- FALSE POSITIVE
+first time- FALSE POSITIVE
+random garbage advertising- FALSE POSITIVE
+advertising a game- TRUE POSITIVE
+am an angry- FALSE POSITIVE
+ipod ones- FALSE POSITIVE
+deleted rio cause- FALSE POSITIVE
+angry birds awesome- FALSE POSITIVE

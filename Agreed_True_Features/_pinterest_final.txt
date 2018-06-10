@@ -1,0 +1,155 @@
+low score- FALSE POSITIVE
+menu easier- FALSE POSITIVE
+otherwise useless- FALSE POSITIVE
+represents your boards- FALSE POSITIVE
+add pictures- TRUE POSITIVE
+user friendlier- FALSE POSITIVE
+na design- FALSE POSITIVE
+design a straight forward- FALSE POSITIVE
+straight forward menu- FALSE POSITIVE
+prefer old feed- FALSE POSITIVE
+in i- FALSE POSITIVE
+i a personal pinterest- FALSE POSITIVE
+old board- FALSE POSITIVE
+current technique- FALSE POSITIVE
+such inspiration- FALSE POSITIVE
+information ideas- FALSE POSITIVE
+creative ideas- TRUE POSITIVE
+tech problems- FALSE POSITIVE
+causes page- FALSE POSITIVE
+mind an option- FALSE POSITIVE
+people my pinning- FALSE POSITIVE
+collecting your favorite things- FALSE POSITIVE
+express your likes- TRUE POSITIVE
+recipes to gifts- FALSE POSITIVE
+random humor- FALSE POSITIVE
+pinterest intervention- FALSE POSITIVE
+may a pinterest- FALSE POSITIVE
+board food- FALSE POSITIVE
+could a sub- FALSE POSITIVE
+sub board- FALSE POSITIVE
+board food- FALSE POSITIVE
+projects tasks- TRUE POSITIVE
+creative tasks- TRUE POSITIVE
+go to super- FALSE POSITIVE
+new boards-- TRUE POSITIVE
+would recommend- FALSE POSITIVE
+small glitches- FALSE POSITIVE
+m a samsung- FALSE POSITIVE
+could adjustments- FALSE POSITIVE
+regular laptop- FALSE POSITIVE
+couple days- FALSE POSITIVE
+frustrating drove- FALSE POSITIVE
+tech savvy- FALSE POSITIVE
+see my boards- TRUE POSITIVE
+overall worth- FALSE POSITIVE
+chrome bookmarks- TRUE POSITIVE
+crafty projects- TRUE POSITIVE
+do-it-yourself ideas- FALSE POSITIVE
+hair styles- TRUE POSITIVE
+ideas to quotes- FALSE POSITIVE
+nice to access- FALSE POSITIVE
+pins every day- FALSE POSITIVE
+e cigarettes- FALSE POSITIVE
+searches fine- FALSE POSITIVE
+excellent sharing- FALSE POSITIVE
+peace thank- FALSE POSITIVE
+nothing happens- FALSE POSITIVE
+place to access- FALSE POSITIVE
+watch things- FALSE POSITIVE
+collecting things- FALSE POSITIVE
+minded people- FALSE POSITIVE
+new mapping thing- FALSE POSITIVE
+wedding planner- TRUE POSITIVE
+part time- FALSE POSITIVE
+happy people- FALSE POSITIVE
+update version sucks- FALSE POSITIVE
+galaxy tab- FALSE POSITIVE
+getting lags- FALSE POSITIVE
+favorite social media- TRUE POSITIVE
+social media channels- TRUE POSITIVE
+add function- TRUE POSITIVE
+know feels- FALSE POSITIVE
+get a deal- TRUE POSITIVE
+new ideas- TRUE POSITIVE
+true awesome- FALSE POSITIVE
+tell people- FALSE POSITIVE
+happy girl at- FALSE POSITIVE
+super from fashion- FALSE POSITIVE
+fashion to diy- FALSE POSITIVE
+pintrest a magnificent- FALSE POSITIVE
+updated longer- FALSE POSITIVE
+accurate search- FALSE POSITIVE
+cool pictures- FALSE POSITIVE
+organize my life- TRUE POSITIVE
+wrong wuth search- FALSE POSITIVE
+clothing ideas- TRUE POSITIVE
+stop updates- TRUE POSITIVE
+mobile device- FALSE POSITIVE
+super simple- FALSE POSITIVE
+happy with updates- FALSE POSITIVE
+real bulletin board- TRUE POSITIVE
+crafty side- FALSE POSITIVE
+post my crafty- TRUE POSITIVE
+m a crafter- FALSE POSITIVE
+home furnishings- FALSE POSITIVE
+share products- TRUE POSITIVE
+helpful tips- TRUE POSITIVE
+awesome wonderful place- FALSE POSITIVE
+confirming email address- TRUE POSITIVE
+bored went- FALSE POSITIVE
+email address got- FALSE POSITIVE
+sucks a wonderful minus- FALSE POSITIVE
+wonderful minus videos- FALSE POSITIVE
+playback sucks- FALSE POSITIVE
+bypass nonsense- FALSE POSITIVE
+playback to bypass- FALSE POSITIVE
+new update sucks- FALSE POSITIVE
+diy ideas- FALSE POSITIVE
+fandom photos- FALSE POSITIVE
+funny photos- TRUE POSITIVE
+time online- FALSE POSITIVE
+big frowny face- FALSE POSITIVE
+thing appears- FALSE POSITIVE
+awesome liked- FALSE POSITIVE
+improved happy with progress- FALSE POSITIVE
+wrapped text function- TRUE POSITIVE
+see names of boards- TRUE POSITIVE
+take weeks- FALSE POSITIVE
+downside quality of pictures- TRUE POSITIVE
+endless advertising- FALSE POSITIVE
+find kinds- FALSE POSITIVE
+access my boards- TRUE POSITIVE
+fare still problems- FALSE POSITIVE
+times last night- FALSE POSITIVE
+awesome idea- FALSE POSITIVE
+pins a success- FALSE POSITIVE
+eh stops- FALSE POSITIVE
+update and dang- FALSE POSITIVE
+dang thing- FALSE POSITIVE
+accurate search- FALSE POSITIVE
+add option- FALSE POSITIVE
+do that less data- FALSE POSITIVE
+controlling quality of pictures- TRUE POSITIVE
+less data usage- FALSE POSITIVE
+feed section- TRUE POSITIVE
+stop auto- FALSE POSITIVE
+add tap- FALSE POSITIVE
+load options- TRUE POSITIVE
+travel ideas- TRUE POSITIVE
+pinning projects- TRUE POSITIVE
+still prefer- FALSE POSITIVE
+sumsang gnote- FALSE POSITIVE
+happened with new update- FALSE POSITIVE
+perfect boredom killer- FALSE POSITIVE
+killer plus- FALSE POSITIVE
+find things snag- FALSE POSITIVE
+things snag pin- FALSE POSITIVE
+reset my password- TRUE POSITIVE
+foods things- FALSE POSITIVE
+funny things- FALSE POSITIVE
+favorite ui- FALSE POSITIVE
+stop time- FALSE POSITIVE
+new update causes- FALSE POSITIVE
+made my pinning- FALSE POSITIVE
+cool place- FALSE POSITIVE
